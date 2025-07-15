@@ -1,1 +1,1 @@
-# Rock_Paper_Scissors_game
+# Rock_Paper_Scissor_Game
